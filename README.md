@@ -6,3 +6,6 @@
 
 eksctl create cluster --config-file=eks.yml --> To create cluster using eks.yml file
 
+create namespace named expense with `kubectl create ns expense --lables=environment=dev`
+`
+
